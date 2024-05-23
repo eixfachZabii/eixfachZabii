@@ -11,4 +11,5 @@ Got a question or just want to chat? Reach out!
 
 ## 🛠️ Tech I Use
 
-I'm into Java and dabbling in Python. That's my tech world!
+- Java
+- Python (just starting out!)
