@@ -1,4 +1,4 @@
-I'm a 18 y/o student, living near Munich 
+I'm a 19 y/o student, living in Munich 
 
 ✉️ Contact  
 Email: Sebastianwth.rogg@tum.de  
