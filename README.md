@@ -12,4 +12,5 @@ Got a question or just want to chat? Reach out!
 ## 🛠️ Tech I Use
 
 - Java
-- Python (just starting out!)
+- Python
+  
