@@ -30,7 +30,7 @@ jobs:
     # Generates the snake  
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: M4RKUS28
+          github_user_name: eixfachZabii
           outputs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
