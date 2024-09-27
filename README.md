@@ -15,4 +15,4 @@ Got a question or just want to chat? Reach out!
 - Python
 
 
-  ![snake](github-snake.svg dist/github-snake-dark.svg)
+![snake](github-snake.svg dist/github-snake-dark.svg)
