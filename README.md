@@ -13,4 +13,6 @@ Got a question or just want to chat? Reach out!
 
 - Java
 - Python
-  
+
+
+  ![snake](github-snake.svg dist/github-snake-dark.svg)
