@@ -13,6 +13,5 @@ Got a question or just want to chat? Reach out!
 
 - Java
 - Python
-- JavaScript (Just starting out!)
 
 ![snake](https://github.com/eixfachZabii/eixfachZabii/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
