@@ -1,8 +1,8 @@
 # Hey there! 👋
 
-I'm Sebastian, a 21-year-old student studying Information Systems at TUM in Munich, Germany. Welcome to my GitHub!
+I'm Sebastian, a 21-year-old student studying Information Systems at TUM in Munich, Germany.
 
-## 📫 Get in Touch
+## Get in Touch
 
 Got a question or just want to chat? Reach out!
 
