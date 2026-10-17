@@ -9,10 +9,4 @@ Got a question or just want to chat? Reach out!
 - 📧 Email: Sebastianwth.rogg@tum.de
 - 💬 Discord: eixfachZabii
 
-## 🛠️ Tech I Use
-
-- Java
-- Python
-- JavaScript (React)
-
 ![snake](https://github.com/eixfachZabii/eixfachZabii/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
